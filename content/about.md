@@ -3,30 +3,28 @@ date = '2026-03-23T21:37:02+08:00'
 draft = false
 title = 'About'
 url= "/about/"
-
+layout = "single"
 +++
-## About Me
 
-I'm a marketer with 3–5 years of experience operating across both B2B and B2C landscapes, specialising in the market research industry. I combine strategic thinking with hands-on execution, from building brand narratives to running performance campaigns.
+I'm a marketer with over 5 years of experience in the market research industry, where I've worked across the full digital marketing stack, from SEO and SEM to social, email, and display. My background sits at the intersection of content strategy, data, and execution.
 
-My work spans the full marketing mix: content, SEO, paid media, social, email, brand strategy, and product marketing. I don't believe in siloed thinking, the best results come from connecting these disciplines into a coherent strategy.
+At Conjointly, I lead content initiatives that make complex market research concepts accessible and actionable,  building organic visibility while maintaining the technical credibility the industry demands. I work across channels but think in systems, ensuring every touchpoint serves a broader strategic purpose.
 
-Lately, I've been expanding into code and building in public. This site is part of that journey.
+I'm also a builder. Alongside my marketing work, I'm learning to code and using AI tools, developing a sharper understanding of the web infrastructure that underpins everything we do as digital marketers.
 
 ---
 
-## What I Do
+## What I Bring
 
-- **Content Marketing** — crafting narratives that educate, engage, and convert
-- **SEO** — building organic visibility through technical and editorial strategy
-- **Paid Advertising** — managing performance campaigns across search and social
-- **Social Media** — growing and engaging audiences with purpose
-- **Email Marketing** — designing lifecycle campaigns that drive retention
-- **Brand Strategy** — defining positioning, messaging, and identity
-- **Product Marketing** — connecting product value to market needs
+- **Content Strategy**: Translating complex methodologies and research concepts into clear, high-performing content
+- **SEO & SEM**: Driving organic and paid visibility with a metrics-first approach
+- **Paid & Display Advertising**: Building and optimising campaigns across search and social
+- **Email Marketing**: Designing communications that engage and retain clients and subscribers
+- **Creative Production**: Developing visual assets across display, social, and video
+- **Analytics**: Tracking, measuring, and acting on web and campaign performance
 
 ---
 
 ## Currently
 
-Exploring the intersection of marketing and technology, learning to build digital products and document the process along the way.
+Deepening my technical skills at the intersection of marketing and web development, building in public and documenting the process along the way.

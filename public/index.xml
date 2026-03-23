@@ -6,6 +6,15 @@
     <description>Recent content on Chun Hui Lee</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2026 21:37:02 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/my-profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/my-profile/about/</link>
+      <pubDate>Mon, 23 Mar 2026 21:37:02 +0800</pubDate>
+      <guid>http://localhost:1313/my-profile/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a marketer with over 5 years of experience in the market research industry, where I&amp;rsquo;ve worked across the full digital marketing stack, from SEO and SEM to social, email, and display. My background sits at the intersection of content strategy, data, and execution.&lt;/p&gt;
+&lt;p&gt;At Conjointly, I lead content initiatives that make complex market research concepts accessible and actionable,  building organic visibility while maintaining the technical credibility the industry demands. I work across channels but think in systems, ensuring every touchpoint serves a broader strategic purpose.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

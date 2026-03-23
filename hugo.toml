@@ -6,9 +6,38 @@ paginate = 5
 
 [params]
   author = "Chun Hui Lee"
-  description = "Marketer. Learner. Builder."
+  description = "Marketer. Builder. Learner."
   ShowReadingTime = true
   ShowPostNavLinks = true
+  defaultTheme = "auto"
+
+  [params.profileMode]
+    enabled = true
+    title = "Hi, I'm Chun Hui"
+    subtitle = "Marketer and writer in the market research industry. Currently learning to build on the web."
+    imageUrl = "/images/chunhui.jpg"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts/"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ch-337"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:personal.chunhui@gmail.com"
 
 [menu]
   [[menu.main]]
