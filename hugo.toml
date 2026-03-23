@@ -15,7 +15,7 @@ paginate = 5
     enabled = true
     title = "Hi, I'm Chun Hui"
     subtitle = "Marketer and writer in the market research industry. Currently learning to build on the web."
-    imageUrl = "/images/chunhui.jpg"
+    imageUrl = "/images/chun-hui.jpg"
     imageWidth = 120
     imageHeight = 120
 

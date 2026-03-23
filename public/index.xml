@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chun Hui Lee</title>
-    <link>http://localhost:1313/my-profile/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chun Hui Lee</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2026 21:37:02 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-profile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/my-profile/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 23 Mar 2026 21:37:02 +0800</pubDate>
-      <guid>http://localhost:1313/my-profile/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a marketer with over 5 years of experience in the market research industry, where I&amp;rsquo;ve worked across the full digital marketing stack, from SEO and SEM to social, email, and display. My background sits at the intersection of content strategy, data, and execution.&lt;/p&gt;
 &lt;p&gt;At Conjointly, I lead content initiatives that make complex market research concepts accessible and actionable,  building organic visibility while maintaining the technical credibility the industry demands. I work across channels but think in systems, ensuring every touchpoint serves a broader strategic purpose.&lt;/p&gt;</description>
     </item>
