@@ -1,0 +1,4 @@
+baseURL = "https://ch-337.github.io/my-profile/"
+theme = "ananke"
+locale = 'en-us'
+title = 'My New Hugo Project'
