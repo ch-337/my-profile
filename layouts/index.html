@@ -1,0 +1,25 @@
+{{- define "main" }}
+
+<div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
+
+  {{/* Profile intro */}}
+  <div style="text-align: center; padding: 80px 0 60px;">
+    <img
+      src="{{ "/my-profile/images/chun-hui.jpg" }}"
+      alt="Profile photo"
+      style="display: block; margin: 0 auto; width: 120px; height: 120px; border-radius: 50%; object-fit: cover;"
+    >
+    <h1 style="margin-top: 20px;">Hi, I'm Chun Hui</h1>
+    <p>Marketer in the market research industry. Currently learning to build on the web.</p>
+
+  </div>
+
+  {{/* Sections */}}
+  {{- partial "sections/about.html" . -}}
+  {{- partial "sections/experience.html" . -}}
+  {{- partial "sections/projects.html" . -}}
+  {{- partial "sections/contact.html" . -}}
+
+</div>
+
+{{- end }}

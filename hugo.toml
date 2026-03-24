@@ -29,7 +29,7 @@ paginate = 5
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com"
+    url = "https://www.linkedin.com/in/chun-hui-lee-984b1b222/"
 
   [[params.socialIcons]]
     name = "github"
@@ -38,19 +38,19 @@ paginate = 5
   [[params.socialIcons]]
     name = "email"
     url = "mailto:personal.chunhui@gmail.com"
-
-[menu]
+    
+ [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "About me"
+    url = "/#about"
     weight = 1
   [[menu.main]]
     name = "Experience"
-    url = "/experience/"
+    url = "/#experience"
     weight = 2
   [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "/#projects"
     weight = 3
   [[menu.main]]
     name = "Blog"
@@ -58,5 +58,5 @@ paginate = 5
     weight = 4
   [[menu.main]]
     name = "Contact"
-    url = "/contact/"
+    url = "/#contact"
     weight = 5
